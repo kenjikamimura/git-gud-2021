@@ -1,2 +1,3 @@
 First line in this text file
 This is the second line!
+Git is the best! What a great learning opportunity! 
