@@ -1,3 +1,4 @@
 I am here at the bootcamp of SOT 2021
 I participated in the GIT 101 by Xero
 Xero presented the demo of using git 
+They are amazing developers from xero
