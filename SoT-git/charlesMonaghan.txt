@@ -1,2 +1,3 @@
 This is a line :)
 The line above is pretty cool
+Now this is a third line
